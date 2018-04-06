@@ -1,0 +1,7 @@
+echo addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "5.2.4")
+eclipse
+exit
+echo 'addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "5.2.4")' > project/plugins.sbt
+eclipse
+submit ben.othmen.malek@gmail.com zDcKI6OXetGtLbuB
+submit ben.othmen.malek@gmail.com b7mZOLFs4NdTW89Z
